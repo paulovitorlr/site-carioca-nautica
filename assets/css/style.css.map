@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"style.css"}
+=======
+{"version":3,"sourceRoot":"","sources":["../scss/fonts.scss","../scss/body.scss","../scss/navbar.scss","../scss/sobre.scss","../scss/produtos.scss","../scss/footer.scss","../scss/responsive.scss","../scss/config.scss"],"names":[],"mappings":";AAAQ;ACEA;EACI;EACA;EACA;EACA;EACA;EACA;;;ACPR;EACI;;;AAGJ;AAAA;EAEA;;;AAOY;EACI;EACA;;;AChBpB;AACA;EACE;EACA;EACA;;;AAGF;AACA;EACE;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGF;AACA;EACE;EACA;EACA;;;AAGF;AACA;EACE;EACA;;;AAGF;AACA;EACE;EACA;EACA;EACA;EACA;;;AAGF;AACA;EACE;EACA;EACA;;;AAGF;AACA;EACE;EACA;EACA;EACA;EACA;;;AAGF;AACA;EACE;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGF;EACE;;;AAGF;AACA;EACE;EACA;;;AC5EF;EACI;;;ACDJ;EACI;;AAEA;EACE;EACA;EACA;EACA;;AAGH;EAGK;EACA;EACA;EACA;EACA;EACA;;AAGA;EACC;EACA;EACA;;;ACxBT;EAIY;IACI;IACA;IACA;IACA;;EAEA;IACI;;;AAOpB;EAGY;IACI;;;ACtBhB;EACI;EACA;EACA","file":"style.css"}
+>>>>>>> master

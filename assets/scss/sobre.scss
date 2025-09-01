@@ -1,0 +1,79 @@
+/* Estilização da seção Sobre */
+.sobre {
+  background-color: #f5f7fa; 
+  padding: 60px 20px; 
+  overflow: hidden; /* Evita problemas com elementos flutuantes */
+}
+
+/* Container principal */
+.container-sobre {
+  display: flex;
+  flex-direction: row;
+  align-items: center; 
+  justify-content: space-between; 
+  max-width: 1200px; 
+  margin: 0 auto; 
+  flex-wrap: wrap; /* Permite quebra em telas menores */
+}
+
+/* Itens da seção Sobre */
+.sobre-item {
+  flex: 1; /* Itens ocupam espaço igual */
+  min-width: 300px; /* Evita que os itens fiquem muito estreitos */
+  margin: 20px; 
+}
+
+/* Estilização do texto */
+.texto-sobre {
+  text-align: left; 
+  max-width: 600px; /* Limita a largura do texto para legibilidade */
+}
+
+/* Título da seção */
+.sobre-titulo {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700; 
+  font-size: 32px; 
+  color: #34596f; 
+  margin-bottom: 20px;
+}
+
+/* Linha divisória */
+.sobre-divisor {
+  width: 80px; 
+  border: 2px solid #1a3c5e;
+  margin: 20px 0;
+}
+
+/* Parágrafo */
+.texto-sobre p {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 1.8; /* Espaçamento para facilitar leitura */
+  color: #333; 
+  margin-bottom: 30px;
+}
+
+/* Botão de call-to-action */
+.cta-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #34596f; 
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #28527a; 
+}
+
+/* Estilização da imagem */
+.imagem-sobre img {
+  max-width: 100%; 
+  height: auto;
+   
+}

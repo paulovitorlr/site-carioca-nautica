@@ -1,0 +1,30 @@
+footer{
+    background-color: #34596f;
+    
+    .container-footer{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+    
+    }
+   .text-footer{
+        
+
+        font-family: "Roboto Slab", serif;
+        font-weight: 700; 
+        font-size: 32px; 
+        color: #fff; 
+        margin-bottom: 20px;
+        margin-top: 20px;
+   }
+    .tamanho{
+        img{
+         width: 200px;
+         height: 200px;
+         margin: 40px;
+        }
+        
+    }
+}
+
